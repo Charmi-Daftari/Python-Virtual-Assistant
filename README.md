@@ -21,7 +21,7 @@ Alexis is a voice-assistant service that can understand natural language voice c
 
 ## Getting Started
 ### Create KEYs for third party APIs
-Jarvis assistant uses third party APIs for speech recognition,web information search, etc. All the following APIs have free no-commercial API calls. Subscribe to the following APIs in order to take FREE access KEYs.
+Alexis assistant uses third party APIs for speech recognition,web information search, etc. All the following APIs have free no-commercial API calls. Subscribe to the following APIs in order to take FREE access KEYs.
 * [WolframALpha](https://developer.wolframalpha.com/portal/myapps/): API for answer questions.
 * [NewsAPI](https://newsapi.org/) : API for news.
 
