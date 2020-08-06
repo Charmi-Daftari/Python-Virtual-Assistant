@@ -33,9 +33,13 @@ Jarvis assistant uses third party APIs for speech recognition,web information se
 * **pip install wikipedia**
 
 ### Download Alexis repo locally:
-```
+`
 git clone https://github.com/Charmi-Daftari/Python-Virtual-Assistant.git
-```
+`
+### Setting up the source file:
+Atom is used as an IDE, you can use any !
+`atom source.py`
+
 ### Implementation:
 ![Implementation Image](https://github.com/Charmi-Daftari/Python-Virtual-Assistant/blob/master/implementation.png)
 
