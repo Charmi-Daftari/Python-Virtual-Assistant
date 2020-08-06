@@ -37,7 +37,7 @@ Jarvis assistant uses third party APIs for speech recognition,web information se
 git clone https://github.com/Charmi-Daftari/Python-Virtual-Assistant.git
 `
 ### Setting up the source file:
-Atom is used as an IDE, you can use any !
+Atom is used as an IDE here, you can use any ! <br />
 `atom source.py`
 
 ### Implementation:
